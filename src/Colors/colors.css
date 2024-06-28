@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.color{
+    height: 130px;
+    width: 130px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.color-name{
+    margin-top: 10px;
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+    border-style: none;
+
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 21px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.ind-container{
+    width: 1200px;
+    background-color: #262626 ;
+    padding: 18px;
+    border-radius: 10px;
+    margin: 20px;
+}
+.main-heading{
+    text-align: center;
+    background-color: black;
+    height: 70px;
+    width: 100%;
+    color: white;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.heading{
+    width: 1200px;
+    height: 40px;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
