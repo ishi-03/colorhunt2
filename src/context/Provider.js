@@ -1,10 +1,7 @@
-import Context from "./Context.js";
 import React from "react";
 import colorJson from "../color.json";
-import { ToastContainer, toast } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
-import { CopyToClipboard } from "react-copy-to-clipboard";
-
+import { toast } from "react-toastify";
+import Context from "../context/Context";
 
 export default function Provider({ children }) {
   const blueColor = colorJson?.colors?.blue?.map((item) => item);
@@ -14,10 +11,11 @@ export default function Provider({ children }) {
   const fancyColor = colorJson?.colors?.Fancy?.map((item) => item);
   const greyColor = colorJson?.colors?.Grey?.map((item) => item);
   const [copied, setCopied] = React.useState(false);
+
   const copyText = (text) => {
     console.log(text);
     setCopied(true);
-    toast.success('successfully copied' + text, {
+    toast.success('Successfully copied ' + text, {
       position: 'top-right',
       autoClose: 5000,
       hideProgressBar: false,
@@ -27,7 +25,9 @@ export default function Provider({ children }) {
       progress: undefined,
       theme: 'colored',
     });
+    setTimeout(() => setCopied(false), 1000); // Reset copied state after 5 seconds
   };
+
   return (
     <div>
       <Context.Provider

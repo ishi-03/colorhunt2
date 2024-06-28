@@ -1,0 +1,85 @@
+[
+  { "name": "Beach", "colors": ["#F4D6A6", "#E7B074", "#90C4CE", "#C2DCDF"] },
+  { "name": "Aqua", "colors": ["#005A60", "#309DB0", "#56CEDC", "#F5F6F9"] },
+  { "name": "Periwinkle", "colors": ["#9A93E8", "#D5CFF3", "#A4DAD2"] },
+  { "name": "Kiwi", "colors": ["#229475", "#00A99D", "#6CEEC2", "#DFE6B9"] },
+  {
+    "name": "Ice Cream",
+    "colors": ["#895A30", "#F9C0C2", "#F5D4CA", "#F9F5D0"]
+  },
+  {
+    "name": "Tangerine",
+    "colors": ["#FF6200", "#FF8700", "#FFAC00", "#FFC537"]
+  },
+  { "name": "Earth", "colors": ["#917F67", "#705248", "#E6D7B9", "#D7D7D9"] },
+  {
+    "name": "Sea Wave",
+    "colors": ["#004A85", "#006FA6", "#00A9CE", "#E1F1F5"]
+  },
+  { "name": "Summer", "colors": ["#02632D", "#5FAA3D", "#92D18F", "#D4E8BD"] },
+  { "name": "Memory", "colors": ["#263C68", "#59739B", "#A1B6D5", "#DFE6F3"] },
+  { "name": "Bouquet", "colors": ["#D46170", "#E4B36A", "#F4D79D", "#A4B66D"] },
+  { "name": "Sailing", "colors": ["#748AA8", "#C4C3C2", "#E4E7E7", "#F8665F"] },
+  { "name": "Reef", "colors": ["#0C7993", "#31D1AA", "#66DEB0", "#8CEBD4"] },
+  { "name": "Avocado", "colors": ["#484F41", "#727255", "#A7B47F", "#D1D4A0"] },
+  { "name": "Fruity", "colors": ["#E36D84", "#F6A5B3", "#F4D7A0", "#FFDEB8"] },
+  { "name": "Petal", "colors": ["#4E3647", "#FF7992", "#FFB4C4", "#FFCCCC"] },
+  { "name": "Viola", "colors": ["#7D3E98", "#995DB2", "#F1CB75", "#F9E1B8"] },
+  { "name": "Muted", "colors": ["#BA9796", "#D1A7B5", "#E6C2C4", "#F8EBEB"] },
+  { "name": "Lime", "colors": ["#8CBF28", "#B8D75A", "#D7E68F", "#F5F5F7"] },
+  { "name": "Stromi", "colors": ["#374F66", "#7586A0", "#B1C0D5", "#E2EFF3"] },
+  { "name": "Ashley", "colors": ["#72419A", "#B24A99", "#E96C5A", "#F9D6B0"] },
+  { "name": "Office", "colors": ["#35495D", "#576C87", "#A0ABB8", "#D9D9DA"] },
+  {
+    "name": "Lavender",
+    "colors": ["#E03D8B", "#E57EB7", "#C3B4E0", "#B49FDF"]
+  },
+  { "name": "Winter", "colors": ["#5E6D8C", "#A8BCCF", "#BEBBBE", "#CFC4AD"] },
+  {
+    "name": "Sea Gulls",
+    "colors": ["#B3DAD6", "#C7E3DF", "#D6EFEC", "#E1F5F5"]
+  },
+  { "name": "Wind", "colors": ["#B8A77A", "#CEB187", "#D4C5B4", "#D8D4CE"] },
+  {
+    "name": "Sea Port",
+    "colors": ["#2F4F8A", "#3B658E", "#6A8C9E", "#DADDD6"]
+  },
+  {
+    "name": "Ocean Night",
+    "colors": ["#1A5C6A", "#2D7C8D", "#67A5A2", "#B7D4D8"]
+  },
+  {
+    "name": "Ocean Bay",
+    "colors": ["#007A86", "#10AEB7", "#8BC6B4", "#E0F4F3"]
+  },
+  { "name": "Gotham", "colors": ["#36404A", "#9167A8", "#C6A2D1", "#ECE2F3"] },
+  { "name": "Barbie", "colors": ["#F291C0", "#F7B4CE", "#C8E2F6", "#E5F0F9"] },
+  {
+    "name": "Crocodile",
+    "colors": ["#6D7F25", "#8B9E34", "#B1BD64", "#E4E8A1"]
+  },
+  { "name": "Lagoon", "colors": ["#3CA7B3", "#4CBFD0", "#F9D937", "#FCF7DB"] },
+  { "name": "Granite", "colors": ["#8D9697", "#A6B3B3", "#B6C4C4", "#D1D9D9"] },
+  {
+    "name": "Moonlight",
+    "colors": ["#8491A0", "#A4ADB9", "#D6D6CE", "#E6E6D5"]
+  },
+  {
+    "name": "Cornflower",
+    "colors": ["#5E6D8C", "#9DA4A7", "#D6D7CE", "#EEF1F2"]
+  },
+  {
+    "name": "Blooming",
+    "colors": ["#CDE295", "#D9E7B2", "#F4F9D4", "#F9F7DC"]
+  },
+  { "name": "Nature", "colors": ["#4D5335", "#6B7952", "#94A27B", "#CDD8A5"] },
+  {
+    "name": "Ocean Waves",
+    "colors": ["#195463", "#2B7A8A", "#9AC3CE", "#C4D8D9"]
+  },
+  { "name": "Alone", "colors": ["#D01048", "#F57088", "#FFD8DA", "#FFF2F2"] },
+  { "name": "Bluesh", "colors": ["#748AA8", "#B0C0D1", "#B9DDE8", "#DCEFF3"] },
+  { "name": "Peachy", "colors": ["#F07F63", "#F2A08B", "#F8D5B9", "#FCECE5"] },
+  { "name": "Baby", "colors": ["#E5F1DF", "#F2F6E4", "#F6F9F1", "#FCF9F9"] },
+  { "name": "Veegie", "colors": ["#8FB95D", "#B2D187", "#E1EBC6", "#F2F7E4"] }
+]

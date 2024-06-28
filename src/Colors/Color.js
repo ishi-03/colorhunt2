@@ -6,9 +6,7 @@ import { CopyToClipboard } from "react-copy-to-clipboard";
 import Context from "../context/Context";
 
 const Color = ({ colorName, colorHeading, bgColor }) => {
-  const { copied } = React.useContext(Context);
   const { copyText } = React.useContext(Context);
-
 
   return (
     <>
@@ -39,23 +37,18 @@ const Color = ({ colorName, colorHeading, bgColor }) => {
           </div>
         </div>
       </div>
-      {
-        
-         copied === true && (
-          <ToastContainer
-            position="top-right"
-            autoClose={5000}
-            hideProgressBar={false}
-            newestOnTop={false}
-            closeOnClick
-            rtl={false}
-            pauseOnFocusLoss
-            draggable
-            pauseOnHover
-            theme="light"
-          />
-        )}
-      
+      <ToastContainer
+        position="top-right"
+        autoClose={5000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        theme="light"
+      />
     </>
   );
 };
